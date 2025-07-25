@@ -11,7 +11,7 @@ int main(){
 	poder armazenar as informações das cidades. */
 	
 	char estado, estado_2;
-	char codigo[3], codigo_2[3];
+	char codigo[4], codigo_2[4];
 	char nome_cidade[20], nome_cidade2[20];
 	int populacao, populacao_2;
 	int pontos_turis, pontos_turis_2;
