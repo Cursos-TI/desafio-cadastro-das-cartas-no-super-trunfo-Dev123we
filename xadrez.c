@@ -1,7 +1,7 @@
 /* Este software seria um pequeno projeto do jogo super triunfo de países.
  Bem, basicamente estarei utilizando conceitos simples deacordo com os requisitos
  funcionais e não funcionais da documentação, introduzindo uma interface que seja 
- capaz de interagir com os usuários através de funções como printf e scanf. e para 
+ capaz de interagir com os usuários através de funções como printf e scanf. E para 
  manipulação de variáveis tipos primitivos como int, char e float. */
  
 #include <stdio.h>
